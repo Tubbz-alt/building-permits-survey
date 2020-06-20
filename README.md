@@ -9,6 +9,10 @@ This project assumes that you have `pipenv` installed. To create the virtualenv 
 
 When adding/updating packages, you'll want to commit both `Pipfile` and `Pipfile.lock` to the repo, to make sure that everyone is using the same versions of each package.
 
+## Sample notebook
+
+There's a sample notebook that shows you how to use the library in `permitting data.ipynb`. I recommend playing with it using JupyterLab, which you can start by running `pipenv run jupyter lab`.
+
 ## Tools
 
 [Plotly Dash](https://plotly.com/dash/) is supposedly "the most popular framework for building ML and data science apps", so that sounds like a good thing to use for the visualization.
