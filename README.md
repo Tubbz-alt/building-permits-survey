@@ -1,10 +1,7 @@
 # Building Permits Survey
 **Contributors:** Sid Kapur, Zack Subin
 
-The goal of this project is to produce 
-
-(1) a Python library for loading data from the [US Census Building Permits Survey](https://www.census.gov/construction/bps/) as a pandas DataFrame, and 
-(2) a Plotly/Dash webapp that displays this data in an interactive way so that people can explore this data in more detail.
+The goal of this project is to produce (1) a Python library for loading data from the [US Census Building Permits Survey](https://www.census.gov/construction/bps/) as a pandas DataFrame, and (2) a Plotly/Dash webapp that displays this data in an interactive way so that people can explore this data in more detail.
 
 # Getting started
 
