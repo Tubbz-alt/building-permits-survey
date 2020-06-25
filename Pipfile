@@ -15,6 +15,7 @@ requests = "*"
 census = "*"
 us = "*"
 typing-extensions = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
